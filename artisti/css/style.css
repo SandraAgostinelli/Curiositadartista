@@ -1,0 +1,221 @@
+body {
+	font: 400 1rem/1.625rem 'Abril Fatface', cursive;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	text-align: center;
+	}
+
+li {
+	margin: 0 20px;
+}
+	
+.container {
+	width:auto;
+	display: inline-block;
+	}
+
+.navbar {
+	margin: 20px 0;
+	font-weight: 600;
+    font-size: 18px;
+    line-height: 0.875rem;
+}
+
+#back_neo {
+	background-image: linear-gradient(#ffffff, #ef2b2b);
+	}
+
+#back_nou {
+	background-image: linear-gradient(#ffffff, #214194);
+	}
+
+#back_dad {
+	background-image: linear-gradient(#ffffff, #6b6073);
+	}
+
+#back_esp {
+	background-image: linear-gradient(#ffffff, #cd0d6d);
+	}
+
+#back_rom {
+	background-image: linear-gradient(#ffffff, #f1862d);
+	}
+
+#back_cub {
+	background-image: linear-gradient(#ffffff, #e293bd);
+	}
+
+#back_fav {
+	background-image: linear-gradient(#ffffff, #5b3c90);
+	}
+
+#back_rea {
+	background-image: linear-gradient(#ffffff, #f3e821);
+	}
+
+#back_imp {
+	background-image: linear-gradient(#ffffff, #68b42d);
+	}
+
+#back_fut {
+	background-image: linear-gradient(#ffffff, #e0e0e0);
+	}
+
+#back_sur {
+	background-image: linear-gradient(#ffffff, #646464);
+	}
+
+#back_pos {
+	background-image: linear-gradient(#ffffff, #44a7df);
+	}
+
+p { 
+  	font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+	}
+
+h2, h3 {
+	font-weight: 200;
+	font-size: 50px;
+	}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	}
+
+a {
+	-webkit-transition: all 0.3s;
+  	-moz-transition: all 0.3s;
+  	transition: all 0.3s;
+	}
+
+a:hover, a:focus, a:active, a:visited {
+	color: #6b747b;
+    text-decoration: none;
+	}
+
+/* Buttons override */
+.btn {
+	text-transform: uppercase;
+    font-weight: 600;
+	}
+
+.btn-lg {
+	padding: 15px 40px;
+    font-size: 16px;
+    line-height: none;
+    border-radius: 4px;
+	}
+
+.btn-yellow:hover {
+	opacity: 1;
+	}
+
+.content-ct {
+	text-align: center;
+	}
+
+.me-row {
+	padding: 15px 0;
+	}
+
+.feature {
+	padding: 0 20px;
+	margin-top: 30px;
+	}
+
+.speaker .feature {
+	width: 31.333333%;
+  margin-right: 20px;
+  border-radius: 20px;
+	}
+.speaker .feature:hover {
+  box-shadow: 3px 3px 10px #ccc;
+  transform: translateY(-10px);
+	}
+
+.immaginepersona img {
+    width: 250px;
+    margin-right: auto;
+    margin-left: auto;
+	}
+
+.par-left {
+	margin: 45px 0;
+	text-align: end;
+}
+
+.par-right {
+	margin: 30px 0;
+	margin-left: 100px;
+	text-align: left;
+}
+
+.col-icon-left {
+	margin-top: 15px;
+	margin-left: 10px;
+	float: right;
+	width: 15%;
+}
+
+.col-icon-right {
+	margin-top: 20px;
+	float: left;
+	width: 15%;
+}
+
+.icon {
+    height:60px;
+	margin: 11px 0;
+	}
+
+#card_neo {
+	background-image: linear-gradient(#ef2b2b, #ffffff);
+	}
+
+#card_nou {
+	background-image: linear-gradient(#214194, #ffffff);
+	}
+
+#card_dad {
+	background-image: linear-gradient(#6b6073, #ffffff);
+	}
+
+#card_esp {
+	background-image: linear-gradient(#cf0d6d, #ffffff);
+	}
+
+#card_rom {
+	background-image: linear-gradient(#f1862d, #ffffff);
+	}
+
+#card_cub {
+	background-image: linear-gradient(#e293bd, #ffffff);
+	}
+
+#card_fav {
+	background-image: linear-gradient(#5b3c90, #ffffff);
+	}
+
+#card_rea {
+	background-image: linear-gradient(#f3e821, #ffffff);
+	}
+	
+#card_imp {
+	background-image: linear-gradient(#68b42d, #ffffff);
+	}
+	
+#card_fut {
+	background-image: linear-gradient(#e0e0e0, #ffffff);
+	}
+	
+#card_sur {
+	background-image: linear-gradient(#646464, #ffffff);
+	}
+	
+#card_pos {
+	background-image: linear-gradient(#44a7df, #ffffff);
+	}
